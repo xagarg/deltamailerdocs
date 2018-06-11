@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Getting Started": ["doc1", "deltamailer", "login", "gettingstarted"],
+    "Basic Flow": ["createlist"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}

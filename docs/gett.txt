@@ -1,0 +1,15 @@
+gett
+- login
+- account
+- setting
+	--- 
+- Basic flow
+	Separate with stages like stage 1 2
+	create list 
+
+		--  Click here to know how to create list
+	 add subscribers to list -> 
+	 create template
+	 create campaign
+
+
