@@ -44,7 +44,7 @@ const siteConfig = {
       {doc: 'login', label: 'Login Page'},
       {doc: 'gettingstarted', label: 'Hero', onPageNav: 's'},*/
     {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    // {blog: true, label: 'Blog'},
   ],
 
   // If you have users set above, you add it here:
