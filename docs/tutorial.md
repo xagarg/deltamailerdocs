@@ -51,7 +51,7 @@ Subscribers are those emails to whom we are sending the emails. Subscribers can 
 	> if you add more column you will get more field in above step.
 
 	* In `Email` filed select `Enail address` from dropdown and in `Name` select `First Name` and click `Start import`
-	>For creating with costum field [click here](https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown)
+	>For creating with costum field [click here]()
 
 Now, Importing suscribers is completed.
 

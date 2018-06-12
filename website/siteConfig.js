@@ -77,7 +77,7 @@ const siteConfig = {
   copyright:
     'Copyright © ' +
     new Date().getFullYear() +
-    ' Your Name or Your Company Name',
+    'DeltaLabs',
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
