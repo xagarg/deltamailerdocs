@@ -1,7 +1,8 @@
 {
   "docs": {
-    "Getting Started": ["doc1", "deltamailer", "login", "gettingstarted"],
-    "Basic Flow": ["createlist"]
+    "Getting Started": ["doc1", "deltamailer", "gettingstarted"],
+    "Basic Flow": ["createlist","addsubscribers", "createtemplate", "createcampaign"],
+    "Tutorial": ["tutorial"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
